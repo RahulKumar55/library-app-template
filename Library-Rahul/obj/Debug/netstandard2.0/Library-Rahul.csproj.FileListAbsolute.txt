@@ -1,0 +1,16 @@
+E:\Seneca Courses\Sem6\MAP526\week5\Library-Rahul\Library-Rahul\bin\Debug\netstandard2.0\Library-Rahul.deps.json
+E:\Seneca Courses\Sem6\MAP526\week5\Library-Rahul\Library-Rahul\bin\Debug\netstandard2.0\Library-Rahul.dll
+E:\Seneca Courses\Sem6\MAP526\week5\Library-Rahul\Library-Rahul\bin\Debug\netstandard2.0\ref\Library-Rahul.dll
+E:\Seneca Courses\Sem6\MAP526\week5\Library-Rahul\Library-Rahul\bin\Debug\netstandard2.0\Library-Rahul.pdb
+E:\Seneca Courses\Sem6\MAP526\week5\Library-Rahul\Library-Rahul\obj\Debug\netstandard2.0\Library-Rahul.csproj.AssemblyReference.cache
+E:\Seneca Courses\Sem6\MAP526\week5\Library-Rahul\Library-Rahul\obj\Debug\netstandard2.0\Library-Rahul.GeneratedMSBuildEditorConfig.editorconfig
+E:\Seneca Courses\Sem6\MAP526\week5\Library-Rahul\Library-Rahul\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Seneca Courses\Sem6\MAP526\week5\Library-Rahul\Library-Rahul\obj\Debug\netstandard2.0\LibPage.xaml.g.cs
+E:\Seneca Courses\Sem6\MAP526\week5\Library-Rahul\Library-Rahul\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Seneca Courses\Sem6\MAP526\week5\Library-Rahul\Library-Rahul\obj\Debug\netstandard2.0\Library-Rahul.AssemblyInfoInputs.cache
+E:\Seneca Courses\Sem6\MAP526\week5\Library-Rahul\Library-Rahul\obj\Debug\netstandard2.0\Library-Rahul.AssemblyInfo.cs
+E:\Seneca Courses\Sem6\MAP526\week5\Library-Rahul\Library-Rahul\obj\Debug\netstandard2.0\Library-Rahul.csproj.CoreCompileInputs.cache
+E:\Seneca Courses\Sem6\MAP526\week5\Library-Rahul\Library-Rahul\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Seneca Courses\Sem6\MAP526\week5\Library-Rahul\Library-Rahul\obj\Debug\netstandard2.0\Library-Rahul.dll
+E:\Seneca Courses\Sem6\MAP526\week5\Library-Rahul\Library-Rahul\obj\Debug\netstandard2.0\ref\Library-Rahul.dll
+E:\Seneca Courses\Sem6\MAP526\week5\Library-Rahul\Library-Rahul\obj\Debug\netstandard2.0\Library-Rahul.pdb

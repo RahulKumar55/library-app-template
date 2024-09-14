@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Library_Rahul.MainPage"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true">
+
+    <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand">
+        <Label Text="Login" HorizontalTextAlignment="Center" FontSize="24"/>
+        <Label Text="" HorizontalTextAlignment="Center" FontSize="24"/>
+        <Entry x:Name="usernameTxt" Text="" Placeholder="Enter username" />
+        <Entry x:Name="passwordTxt" Text="" Placeholder="Enter password" IsPassword="True"/>
+        <Label Text="" HorizontalTextAlignment="Center" FontSize="24"/>
+        <Button x:Name="loginBtn" Text="LOGIN" HorizontalOptions="FillAndExpand" Clicked="loginBtn_Clicked"/>
+        <Label IsVisible="false" x:Name="errorTxt" BackgroundColor="LightPink" Text="" FontSize="20" />
+    </StackLayout>
+
+</ContentPage>
